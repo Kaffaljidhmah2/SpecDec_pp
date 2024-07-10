@@ -1,0 +1,6 @@
+transformers==4.34.1
+huggingface_hub
+datasets
+accelerate
+wandb
+scipy
