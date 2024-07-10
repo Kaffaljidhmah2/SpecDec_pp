@@ -75,7 +75,7 @@ If all tokens are accepted, a new token is sampled from the next-token probabili
 
 ## Problem: Determination of the candidate length $K$.
 
-`SpecDec++` aims to find a *theoretically justificable* approach towards the following problem: what is a proper candidate length that generates as more accepted tokens and wastes as fewer discarded tokens as possible?
+`SpecDec++` aims to find a *theoretically justifiable* approach towards the following problem: what is a proper candidate length that generates as many accepted tokens and wastes as few discarded tokens as possible?
 
 <img src="./assets/tradeoff.png">
 
