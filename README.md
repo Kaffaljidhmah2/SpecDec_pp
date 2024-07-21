@@ -19,7 +19,7 @@ Princeton University
 </p>
 
 ----- 
-We propose `SpecDec++`, an enhanced version of speculative decoding that adaptively determines the candidate length with the help of a trained acceptance prediction head. Our method can boost the performance of speculative decoding and can be combined with other tricks like fused kernel, quantization, and advanced KV cache management.
+We propose SpecDec++, an enhanced version of speculative decoding that adaptively determines the candidate length with the help of a trained acceptance prediction head. Our method can boost the performance of speculative decoding and can be combined with other tricks like fused kernel, quantization, and advanced KV cache management.
 
 ![./assets/teaser_result.png](./assets/teaser_result.png)
 
