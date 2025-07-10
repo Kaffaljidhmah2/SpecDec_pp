@@ -8,7 +8,7 @@ Princeton University
 
 <p align='center';>
 <b>
-<em>COLM 2025; ICML 2024 workshop on Efficient Systems for Foundation Models (ES-FoMo) </em> <br>
+<em>COLM 2025 & ICML 2024 ES-FoMo workshop </em> <br>
 </b>
 </p>
 
